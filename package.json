@@ -1,6 +1,6 @@
 {
   "name": "pro-xy-url-replace",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Plugin for pro-xy, that allows to define url replace rules.",
   "main": "lib/proxyUrlReplace.js",
   "scripts": {
